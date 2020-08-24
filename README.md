@@ -1,4 +1,4 @@
-### Welcome to Ana Carolina's Hut 👋
+### Welcome to Ana Carolina's Hut <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 <a href="https://www.linkedin.com/in/ana-carolina-vasconcelos-2b38511ab/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
