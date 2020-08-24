@@ -24,7 +24,6 @@ Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm under
 - 🌱 I’m currently learning JavaScript, Node.js and React.
 - 🤔 My research interests are with Web Development, Deep Reinforcement Learning, etc.
 - :mag_right: I'm curious and lover of discoveries.
-- 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via ana.vasconcelos@ccc.ufcg.edu.br to reach me.
 
 ![Carol's github stats](https://github-readme-stats.vercel.app/api?username=anacarolinacv&show_icons=true&hide_border=true)
