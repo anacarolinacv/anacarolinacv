@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm undergraduate student in Computer Science @ UFCG and always develop in JS 🐍. Beside's programming, I like delicious food 🥗🥩🌮🍣, play music :kissing::musical_score: and travel :rocket::earth_americas:.
+Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm undergraduate student in Computer Science @ UFCG and always develop in JS. Beside's programming, I like delicious food 🥗🥩🌮🍣, play music :kissing::musical_score: and travel :rocket::earth_americas:.
  
 
 **Current Status Quo**
