@@ -21,7 +21,7 @@ Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm under
 
 **Current Status Quo**
 
-- 🌱 I’m currently learning JavaScript, Node.js and React <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="30">.
+- 🌱 I’m currently learning JavaScript, Node.js and React 
 - 🤔 My research interests are with Web Development, Deep Reinforcement Learning, etc.
 - :mag_right: I'm curious and lover of discoveries.
 - 📫 Please email via ana.vasconcelos@ccc.ufcg.edu.br to reach me.
