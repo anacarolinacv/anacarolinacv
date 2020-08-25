@@ -32,5 +32,6 @@ Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm under
 - 📫 Please email via ana.vasconcelos@ccc.ufcg.edu.br to reach me.
 
 ![Carol's github stats](https://github-readme-stats.vercel.app/api?username=anacarolinacv&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacv)
 
 ⭐️ From [anacarolinacv](https://github.com/anacarolinacv)
