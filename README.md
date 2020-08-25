@@ -17,9 +17,10 @@
 <br />
 
 Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm undergraduate student in Computer Science @ UFCG and always develop in JS. Beside's programming, I like delicious food 🥗🥩🌮🍣, play music :kissing::musical_score: and travel :rocket::earth_americas:.
- 
 
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**Current Status Quo**
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**Current Status Quo**
+
+<img align="right" src=https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif width="400">
 
 - 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
