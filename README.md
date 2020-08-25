@@ -33,7 +33,7 @@ Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm under
 - 🤔 My research interests are with Web Development, Deep Reinforcement Learning, etc.
 - :mag_right: I'm curious and lover of discoveries.
 - 📫 Please email via ana.vasconcelos@ccc.ufcg.edu.br to reach me.
-- Just follow me at [last.fm](https://www.last.fm/user/anacarolinacv)  :notes::v:
+- :notes: Just follow me at [last.fm](https://www.last.fm/user/anacarolinacv) :v:
 
 ![Carol's github stats](https://github-readme-stats.vercel.app/api?username=anacarolinacv&show_icons=true&hide_border=true)
 
