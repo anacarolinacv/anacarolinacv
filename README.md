@@ -34,6 +34,7 @@ Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm under
 - :mag_right: I'm curious and lover of discoveries.
 - 📫 Please email via ana.vasconcelos@ccc.ufcg.edu.br to reach me.
 - :notes: Just follow me at [last.fm](https://www.last.fm/user/anacarolinacv) :kissing::v:
+- :zap: she/her/hers
 
 ![Carol's github stats](https://github-readme-stats.vercel.app/api?username=anacarolinacv&show_icons=true&hide_border=true)
 
