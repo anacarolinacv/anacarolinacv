@@ -34,6 +34,7 @@ Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm under
 - :mag_right: I'm curious and lover of discoveries.
 - :notes: Just follow me at [last.fm](https://www.last.fm/user/anacarolinacv) :kissing::v:
 - :zap: Pronouns: she/her/hers
+- UFCG
 
 ![Carol's github stats](https://github-readme-stats.vercel.app/api?username=anacarolinacv&count_private=true&show_icons=true&line_height=30&&title_color=ffa500&text_color=424B54&icon_color=ffa500&bg_color=FFFEFE)
 
