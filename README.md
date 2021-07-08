@@ -36,6 +36,6 @@ Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm under
 - :zap: Pronouns: she/her/hers
 - 💻 UFCG
 
-![Carol's github stats](https://github-readme-stats.vercel.app/api?username=anacarolinacv&count_private=true&show_icons=true&line_height=30&&title_color=ffa500&text_color=424B54&icon_color=ff8c00&bg_color=FFFEFE)
+![Carol github stats](https://github-readme-stats.vercel.app/api?username=anacarolinacv&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=424B54)
 
 ⭐️ From [anacarolinacv](https://github.com/anacarolinacv)
