@@ -36,9 +36,15 @@ Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm under
 - :zap: Pronouns: she/her/hers
 - 💻 UFCG
 
+<br />
+<br />
+<br />
+<br />
+
 <div>
-  <a href="https://github.com/anacarolinacv"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarolinacv&count_private=true&show_icons=true&hide_border=true&bg_color=11111111&text_color=202263"/></a>
+  <img align="left" width="390px" src="https://github-readme-stats.vercel.app/api?username=anacarolinacv&&count_private=trueshow_icons=true,css&layout=compact&theme=dracula"/>
+
 </div>
-
-
-⭐️ From [anacarolinacv](https://github.com/anacarolinacv)
+<div>
+  <img align="left"  width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacv&count_private=true&layout=compact&theme=dracula"/>
+</div>
