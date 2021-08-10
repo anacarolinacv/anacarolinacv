@@ -38,8 +38,7 @@ Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm under
 
 <br />
 <br />
-<br />
-<br />
+
 
 <div>
   <img align="left"  width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacv&count_private=true&layout=compact&theme=dracula"/>
