@@ -18,7 +18,7 @@
 
 Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm undergraduate student in Computer Science @ UFCG and usually develop in JS. Beside's programming, I like delicious food 🥗🥩🌮🍣, play music :kissing::musical_score: and travel :rocket::earth_americas:.
 
-<img align="right" src=https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif width="400">
+<img align="right" src=https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif width="350">
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**Current Status Quo**
 
@@ -36,6 +36,6 @@ Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm under
 - :zap: Pronouns: she/her/hers
 - 💻 UFCG
 
-![Carol github stats](https://github-readme-stats.vercel.app/api?username=anacarolinacv&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=424B54)
+![Carol github stats](https://github-readme-stats.vercel.app/api?username=anacarolinacv&count_private=true&show_icons=true&hide_border=true&bg_color=11111111&text_color=202263)
 
 ⭐️ From [anacarolinacv](https://github.com/anacarolinacv)
