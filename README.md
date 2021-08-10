@@ -16,7 +16,8 @@
 <br />
 <br />
 
-Hi, I'm Carol 😉, a programmer 👨🏻‍💻 from Brazil 🇧🇷. I'm undergraduate student in Computer Science @ UFCG and usually develop in JS. Beside's programming, I like delicious food 🥗🥩🌮🍣, play music :kissing::musical_score: and travel :rocket::earth_americas:.
+I'm a brazilian ENTP person who's interested in knowing how things work and loves
+<b>📷 read good books, 🔭 astrophysics, 🎶 underscovered music, 🎬 movies and series.
 
 <img align="right" src=https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif width="350">
 
