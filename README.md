@@ -40,7 +40,8 @@ I'm a brazilian ENTP person who's interested in knowing how things work and love
 <br />
 <br />
 
+## My stats on Github 📖
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacv&count_private=true&layout=compact&theme=dracula"/>
+</div> 
 
-<div>
-  <img align="left"  width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacv&count_private=true&layout=compact&theme=dracula"/>
-</div>
