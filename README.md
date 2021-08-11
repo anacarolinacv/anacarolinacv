@@ -5,7 +5,7 @@
  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ana.vasconcelos@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-carolina-vasconcelos-2b38511ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/22nesxwfozqgzfu5nc4fl2l6y?si=FP4CvcfdSVq6h1k10IQGFg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/22nesxwfozqgzfu5nc4fl2l6y?si=FP4CvcfdSVq6h1k10IQGFg" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%23E4405F?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://www.last.fm/user/anacarolinacv" target="_blank"><img src="https://img.shields.io/badge/Lastfm-7289DA?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a> 
   
   
